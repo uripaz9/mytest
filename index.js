@@ -1,1 +1,1 @@
-console.loh("animations");
+console.loh("wix window changes");
